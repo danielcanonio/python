@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e09a0816-1c1e-4223-b504-9c73b3b900c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/capitulo 2/exercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capitulo 3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capitulo 3/exercicio 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capitulo 3/exercicio 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trabalho/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trabalho/exercicio 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +39,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.exemplo1operadoresarimeticos.executor": "Run",
+    "Python.exercicio 1.executor": "Run",
+    "Python.exercicio 2.executor": "Run",
     "Python.exercicio1.executor": "Run",
+    "Python.exercicio2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
